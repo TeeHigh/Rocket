@@ -1,3 +1,4 @@
+// ==========Mobile nav variation 1==============
 const initApp = () =>{
     const hamburgerBtn = document.getElementById('hamburger-button')
     const mobileMenu = document.getElementById('mobile-menu')
