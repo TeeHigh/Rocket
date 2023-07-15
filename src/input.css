@@ -2,6 +2,8 @@
 @tailwind components;
 @tailwind utilities;
 
-.radial-blue{
-    background: radial-gradient(lightyellow, skyblue);
+@layer utilities{
+    .section-min-height{
+        min-height: calc(100vh - 68px) /* 68px here is the size of the navbar that is always on the screen (h1 of line height 2.25rem or 36px + 1rem or 32px(16px up and down) on parent section i.e 36px + 32px)*/
+    }
 }
