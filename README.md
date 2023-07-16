@@ -2,7 +2,7 @@
 A webpage made implementing tailwind-css library 
 <br>
 <br>
-Website live at 👉 https://teehigh.github.io/Rocket/
+Website live at 👉 https://acme-rockets.ifeoluwase.repl.co/
 <br>
 #TAILWIND-CSS
 
