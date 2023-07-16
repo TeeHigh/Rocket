@@ -1,5 +1,6 @@
-# Rocket
-Tailwind project 
+# Acme Rocket
+A webpage made implementing tailwind-css library 
 <br>
-tailwind-css
+<br>
+#TAILWIND-CSS
 
